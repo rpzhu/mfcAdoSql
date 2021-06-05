@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataBinding", "DataBinding.vcxproj", "{5486A0AB-6574-439F-A700-FF57A7B5D920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5486A0AB-6574-439F-A700-FF57A7B5D920}.Debug|x86.ActiveCfg = Debug|Win32
+		{5486A0AB-6574-439F-A700-FF57A7B5D920}.Debug|x86.Build.0 = Debug|Win32
+		{5486A0AB-6574-439F-A700-FF57A7B5D920}.Release|x86.ActiveCfg = Release|Win32
+		{5486A0AB-6574-439F-A700-FF57A7B5D920}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC8E284-E531-444C-8494-945A73E16890}
+	EndGlobalSection
+EndGlobal
